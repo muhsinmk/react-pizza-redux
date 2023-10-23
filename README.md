@@ -2,7 +2,7 @@
 
 "Fast React Pizza," aimed at showcasing my proficiency in React development using the Vite toolset. Vite was chosen over Create-React-App to scaffold the application, emphasizing modern development practices. The project encompassed several key steps, including initial setup, package installation, ESLint configuration, and development of the application's core components.
 
-<!-- <a  href="https://codewithsadee.github.io/hoolix/"><strong>➥ Live Demo</strong></a> -->
+<a  href="https://fast-react-pizza.netlify.app/"><strong>➥ Live Demo</strong></a> 
 
 ## **Key Accomplishments and Contributions:**
 
