@@ -1,35 +1,64 @@
-# **Fast React Pizza - React Pizza Ordering App**
+<div align="center">
+  <br />
+  <div>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Redux-black?style=for-the-badge&logoColor=white&logo=redux&color=FD366E" alt="redux" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
+</div>
 
-"Fast React Pizza," aimed at showcasing my proficiency in React development using the Vite toolset. Vite was chosen over Create-React-App to scaffold the application, emphasizing modern development practices. The project encompassed several key steps, including initial setup, package installation, ESLint configuration, and development of the application's core components.
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-<a  href="https://fast-react-pizza.netlify.app/"><strong>➥ Live Demo</strong></a> 
+- React.js
+- React Router 
+- Redux Toolkit
+- Tailwind CSS
 
-## **Key Accomplishments and Contributions:**
+## <a name="features">🔋 Features</a>
 
-- **Project Initialization and Setup:** I initiated the project by creating a new React application using Vite as the build tool. The application was named "Fast React Pizza," focusing on creating a responsive and efficient web platform for ordering pizzas.
-- **Package Installation and Dependency Management:** The project required manual installation of essential libraries and packages using the npm package manager. I ensured that all required dependencies, including React and React DOM, were properly installed for seamless development.
-- **ESLint Configuration:** I meticulously configured ESLint, a critical tool for maintaining code quality and consistency. By installing ESLint plugins and rules specific to React applications, I ensured that my code adhered to industry best practices. This included creating and configuring the `.ESLintrc.json` file and integrating ESLint with Vite's configuration.
-- **Development and Component Cleanup:** I embarked on cleaning up the project's initial structure by removing unnecessary CSS files and assets. I streamlined the main JSX file to create a clean and organized starting point for development.
-- **Project Execution and Testing:** I utilized Vite's development server to test the application in real-time. I ensured that the application launched successfully and demonstrated the expected behavior. I actively engaged with ESLint's warnings and Vite's terminal messages to address issues promptly.
+👉 **Home Page**: User can enter their name and enter into application 
 
-**Skills Demonstrated:**
+👉 **Cart Page**: Cart page for users to explore items and it's availability 
 
-- **React Development:** I showcased my proficiency in React by creating a React application structure from scratch, managing components, and implementing JSX syntax to render UI elements.
-- **Vite Build Tool:** I successfully utilized Vite as the build tool for this project, emphasizing its benefits over traditional alternatives like Create-React-App.
-- **Package Management:** I demonstrated the ability to manually manage project dependencies using npm, ensuring that all required libraries were properly installed and maintained.
-- **ESLint Configuration:** By configuring ESLint rules and plugins tailored to React development, I highlighted my commitment to maintaining high-quality code and adhering to best practices.
-- **Troubleshooting and Debugging:** Throughout the project, I effectively navigated and addressed ESLint warnings and Vite's terminal messages, showcasing my problem-solving skills and meticulous attention to detail.
+👉 **Order taking Functionality**: Enable users can add otems into cart and checkout it
 
-**Conclusion:**
+👉 **Automatic location fetch**: When user click 'Get position' application fetch user location dynamically 
 
-"Fast React Pizza" exemplifies my ability to initiate, configure, and develop a modern React application using Vite. By leveraging industry-standard tools and following best practices, I demonstrated my commitment to producing clean, efficient, and high-quality code. This project serves as a testament to my proficiency in professional React development and showcases my dedication to continuous learning and improvement in the field.
+and many more, including code architecture and reusability
 
-# React + Vite
+## <a name="quick-start">🤸 Quick Start</a>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Follow these steps to set up the project locally on your machine.
 
-Currently, two official plugins are available:
+**Prerequisites**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+Make sure you have the following installed on your machine:
 
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/muhsinmk/react-pizza-redux.git
+cd react-pizza-redux
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [ http://localhost:5173](http://localhost:5173/) in your browser to view the project.
+
+
